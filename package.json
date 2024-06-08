@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aes-gcm": "^0.0.1",
+    "axios": "^1.7.2",
+    "crypto-js": "^4.2.0"
+    
+  }
+ 
+}
